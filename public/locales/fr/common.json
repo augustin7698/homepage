@@ -135,9 +135,9 @@
         "numberOfFailQueries": "Demande échouée"
     },
     "transmission": {
-        "download": "Download",
-        "upload": "Upload",
-        "leech": "Leech",
-        "seed": "Seed"
+        "download": "Téléchargé",
+        "upload": "Chargé",
+        "leech": "Sangsue",
+        "seed": "Graine"
     }
 }
